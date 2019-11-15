@@ -1,8 +1,4 @@
-
-Now is not empty anymore
-
-
-This is original
-
-It does, you can even collaborate.
+1. Now is not empty anymore
+2. This is original
+3. It does, you can even collaborate.
 
